@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zenith Cycler: Advanced Rich Presence Application
+# Zenith Cycler: Advanced Rich Presence Application [Unstable currently]
 
 ![Zenith Cycler Banner](https://cdn.discordapp.com/attachments/1131043505075126393/1139571323140583485/standard_4.gif)
 
