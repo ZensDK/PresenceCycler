@@ -22,13 +22,8 @@
 
 ![Zenith Cycler Preview](https://cdn.discordapp.com/attachments/1131043505075126393/1138811666985930893/ezgif.com-video-to-gif.gif)
 
-## Changelog
+Zenith Cycler continues to evolve, pushing the boundaries of what a Rich Presence application can achieve. We are committed to delivering an unparalleled experience that constantly exceeds your expectations.
 
-Here are the recent changes that have been implemented in Zenith Cycler:
+**Note**: Zenith Cycler is developed for educational and experimental purposes. It is essential to use this application responsibly and adhere to all terms of service for any integrated platforms.
 
-```js
-[+] Cycling.
-
-[-] Webhook Support
-
-[+] Unlimit Button Potential.
+</div>
