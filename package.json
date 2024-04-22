@@ -1,0 +1,15 @@
+{
+  "name": "zenithrpc-discord-selfbot",
+  "version": "1.0.0",
+  "description": "A Discord selfbot for displaying rich presence using ZenithRPC.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ZensDK",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "*",
+    "express": "^4.17.2"
+  }
+}
